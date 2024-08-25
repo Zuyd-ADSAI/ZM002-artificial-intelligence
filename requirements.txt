@@ -1,0 +1,8 @@
+matplotlib
+numpy
+seaborn
+scikit-learn
+
+--index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
