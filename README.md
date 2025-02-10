@@ -6,7 +6,7 @@ Minor AI notebooks and resources in English
 
 Open a terminal and clone this repository using [git](https://git-scm.com/)
 ```bash
-git clone git@github.com:Janko-dev/ZM002-2425-artificial-intelligence.git
+git clone git@github.com:Zuyd-ADSAI/ZM002-2425-artificial-intelligence.git
 ```
 
 Navigate into the cloned folder
